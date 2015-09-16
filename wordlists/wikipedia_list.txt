@@ -23,7 +23,7 @@ abritrary->arbitrary
 absail->abseil
 absailing->abseiling
 absense->absence
-absolutly->absolutely
+absolutely->absolutely
 absorbsion->absorption
 absorbtion->absorption
 abudance->abundance
